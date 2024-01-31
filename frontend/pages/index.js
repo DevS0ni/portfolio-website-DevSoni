@@ -42,7 +42,7 @@ export default function Home({ blogs, profile }) {
 
         <meta
           name="description"
-          content="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." />
+          content="Dev Soni - Personal Portfolio Website" />
 
         <link rel="icon" href="/assets/img/favicon.ico" />
 
