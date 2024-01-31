@@ -276,7 +276,7 @@ export default function Home({ blogs, profile }) {
                 <button className='bg-purple-600 text-white border-2 px-4 py-1 my-4 rounded-2xl'>View All Projects</button>
               </div></Link>
               <a download="Resume_DevSoni.pdf" href="https://drive.google.com/file/d/1HpCJVUvwlGHdES8FLCJS4CvxpOzmvyvu/view?usp=drive_link" target="_blank">
-              <div className="flex items-center justify-center pt-5 pl-2 sm:justify-start sm:pt-0">
+              <div className="flex items-center justify-center pl-2 sm:justify-start sm:pt-0">
                 <button className='bg-purple-600 text-white border-2 px-4 py-1 my-4 rounded-2xl'>My Resume</button>
               </div>
               </a>
