@@ -777,7 +777,7 @@ export default function Home({ blogs, profile }) {
                   <i className="bx bxs-right-arrow hidden text-primary md:block"></i>
                   <div className="md:-mt-1 md:pl-8">
                     <span className="block font-body font-bold text-grey-40">Jan 2022 - Jan 2024</span>
-                    <span className="block pt-2 font-header text-xl font-bold text-primary">Computer Programming & Analysis</span>
+                    <span className="block pt-2 font-header text-xl font-bold text-primary">Computer Programming</span>
                     <div className="pt-2">
                       <span className="block font-body text-black"><ul>
                         <li><strong>Effective Leadership</strong> in Group Projects, ensuring timely delivery of milestones.</li>
@@ -785,8 +785,9 @@ export default function Home({ blogs, profile }) {
                         <li><strong>President’s Honour List Award</strong> (Summer 2022) with a perfect 4.0/4.0 GPA.</li>
                         <li><strong>Technical Skills:</strong>
                           <ul>
-                            <li>Python, Java, C++, C, Web Programming (React, JavaScript, node.js, Bootstrap, HTML5, Tailwind CSS, DOM).</li>
-                            <li><strong>Database Management: </strong>MongoDB, MyPHP, MongooseSQL, ElephantSQL, PostgreSQL, Oracle SQL, PL/SQL.</li>
+                            <li>Python, Java, C++, C#, C, Web Programming (React, Express, JavaScript, Restful, ASP.NET, node.js, Bootstrap, HTML5, CSS, Tailwind CSS).</li>
+                            <li><strong>Database Management: </strong>MongoDB, MongooseSQL, PostgreSQL, Oracle SQL, PL/SQL</li>
+                            <li><strong>Other Assests: </strong>Jira, Agile, SDLC, IOT, Server-Side Scripting, MVC, UI Design</li>
                             <li>System Design and Analysis with OO modeling.</li>
                           </ul>
                         </li>
@@ -830,17 +831,16 @@ export default function Home({ blogs, profile }) {
                   <i className="bx bxs-right-arrow hidden text-primary md:block"></i>
                   <div className="md:-mt-1 md:pl-8">
                     <span className="block font-body font-bold text-grey-40">Jan 2022 - current</span>
-                    <span className="block pt-2 font-header text-xl font-bold text-primary">IT Tech Support</span>
+                    <span className="block pt-2 font-header text-xl font-bold text-primary">IT Specialist</span>
                     <div className="pt-2">
                       <span className="block font-body text-black"><ul>
                         <li><strong>Resolved Networking and Technical Issues: </strong>
-                          Successfully tackled and resolved networking and technical challenges, contributing to significant improvements in the start-up's existing system.
+                          Successfully tackled and resolved networking and IT challenges, contributing to significant improvements in the start-up's existing system.
                         </li>
-
-                        <li><strong>Customer Relations and Retention: </strong>
-                          Cultivated robust customer relations, resulting in a consistent 20% increase in returning customers.
-                        </li>
-
+                        <li>Implemented a two-way Data Integration between VEND POS and Shopify, reducing manual workload by
+                        40% and ensuring real time inventory updates.</li>
+                        <li>Organized 2000+ products by types and tags, enhancing decision-making. 
+                        Maintained accurate inventory across platforms, achieving a found rate of 95-100%.</li>
                         <li><strong>Efficient IT Issue Resolution: </strong>
                           Established user-friendly procedures and meticulously documented all tech-related issues with plausible solutions for the team, ensuring effective resolution of complex IT issues.
                         </li>
@@ -850,7 +850,7 @@ export default function Home({ blogs, profile }) {
                         </li>
 
                         <li><strong>Newsletter Campaign and Conversion Increase: </strong>
-                          Implemented and managed weekly newsletters, resulting in a notable 10% increase in the store's conversion rate.
+                          Managed promotions, SEO, weekly newsletters, contributing to a 10% boost in the store's conversion rate.
                         </li>
 
                         <li><strong>Website Management and Integration: </strong>
@@ -862,6 +862,9 @@ export default function Home({ blogs, profile }) {
                           Managed, maintained, and enhanced the store website, showcasing proficiency in web development and programming.
                           Highlights commitment to seamless user experiences and ability to integrate and optimize technology for enhanced efficiency.
                           Additionally, adept documentation report skills and effective consumer communication further contribute to a versatile skill set.
+                        </li>
+
+                        <li>Cultivated strong customer relations, resulting in a consistent 20% increase in returning customers.
                         </li>
                       </ul></span>
                     </div>
