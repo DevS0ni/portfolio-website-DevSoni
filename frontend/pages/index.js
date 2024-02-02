@@ -298,18 +298,16 @@ export default function Home({ blogs, profile }) {
             <p className="pt-6 font-body leading-relaxed text-grey-20">
               An ambitious and recent graduate from Seneca Polytechnic, formerly known as Seneca College of Applied Arts and Technology,
               with a Diploma in Computer Programming. Eager and highly motivated to contribute my acquired skills and knowledge to the
-              rapidly evolving IT industry. Proficient in various aspects of software development and information technology,
+              rapidly evolving IT industry. I am proficient in Python, C++ for general programming and the MERN (MongoDB, Express, React, Node) stack.
               I am passionate about creating innovative solutions and have successfully completed multiple projects during my academic journey.
-              Throughout my academic journey at Seneca College, I have consistently taken on leadership roles in group projects, demonstrating
+              Throughout my academic tenure at Seneca College, I have consistently taken on leadership roles in group projects, demonstrating
               my ability to lead teams effectively. Under the guidance of esteemed professors, I successfully led my teams to deliver milestones
               and projects ahead of deadlines. Notably, I participated in the Seneca Sustainability Hackathon 2022, where my team advanced to the
               final phase and secured the runner-up position. In addition to this, I am proud to say that I have also been awarded
-              The President’s Honour List Award for my outstanding academic achievement in one of the semesters. I excel in software
-              backend coding, specializing in React and JavaScript Web Frameworks. My projects include a feature-rich blogging platform showcasing
-              my web technology proficiency. Additionally, I've mastered Database Systems and Design, leading a team in developing a secure
-              Coffee/Cafe Store Application. My experience extends to a two-year role as IT Technical Support at LaSpesa, enhancing their digital
-              platforms. Beyond coding, I'm passionate about blogging on diverse topics and express creativity through Japanese Manga sketching,
-              highlighting my commitment to continuous learning and versatility. This multifaceted approach reflects my commitment
+              The President’s Honour List Award for my outstanding academic achievement in one of the semesters. Furthermore, during my time at LaSpesa, 
+              I have successfully managed and improved the store website, synchronized it with delivery platforms, and addressed technical issues.
+              I have a proven track record of user-friendly solutions, contributing to increased conversion rates and strong customer relations. 
+              A dedicated team player with a proactive work ethic, consistently achieving optimal results. This multifaceted approach reflects my commitment
               to continuous learning and creativity, contributing to a well-rounded and accomplished profile.
             </p>
             <div className="flex flex-col justify-center pt-6 sm:flex-row lg:justify-start">
@@ -344,7 +342,7 @@ export default function Home({ blogs, profile }) {
             </div>
             <div className="pt-6">
               <div className="flex items-end justify-between">
-                <h4 className="font-body font-semibold uppercase text-black">JavaScript</h4>
+                <h4 className="font-body font-semibold uppercase text-black">JavaScript, ASP.Net, Restful</h4>
               </div>
               <div className="mt-2 h-3 w-full rounded-full bg-lila">
                 <div className="h-3 rounded-full bg-primary" style={{ "width": "100%" }}></div>
@@ -353,7 +351,7 @@ export default function Home({ blogs, profile }) {
             <div className="pt-6">
               <div className="flex items-end justify-between">
                 <h4 className="font-body font-semibold uppercase text-black">
-                  Java
+                  Java, C#, PHP
                 </h4>
               </div>
               <div className="mt-2 h-3 w-full rounded-full bg-lila">
@@ -370,7 +368,7 @@ export default function Home({ blogs, profile }) {
             </div>
             <div className="pt-6">
               <div className="flex items-end justify-between">
-                <h4 className="font-body font-semibold uppercase text-black">HTML5, CSS, bootstrap, DOM & Tailwind CSS</h4>
+                <h4 className="font-body font-semibold uppercase text-black"> HTML5, CSS, bootstrap, Tailwind CSS</h4>
               </div>
               <div className="mt-2 h-3 w-full rounded-full bg-lila">
                 <div className="h-3 rounded-full bg-primary" style={{ "width": "100" }}></div>
@@ -378,7 +376,7 @@ export default function Home({ blogs, profile }) {
             </div>
             <div className="pt-6">
               <div className="flex items-end justify-between">
-                <h4 className="font-body font-semibold uppercase text-black">React</h4>
+                <h4 className="font-body font-semibold uppercase text-black">React, Express, Web API</h4>
               </div>
               <div className="mt-2 h-3 w-full rounded-full bg-lila">
                 <div className="h-3 rounded-full bg-primary" style={{ "width": "100%" }}></div>
@@ -410,7 +408,7 @@ export default function Home({ blogs, profile }) {
             </div>
             <div className="pt-6">
               <div className="flex items-end justify-between">
-                <h4 className="font-body font-semibold uppercase text-black">Linux/ Server Scripting & IOT</h4>
+                <h4 className="font-body font-semibold uppercase text-black">Jira, Agile, Linux/ Server Scripting & IOT</h4>
               </div>
               <div className="mt-2 h-3 w-full rounded-full bg-lila">
                 <div className="h-3 rounded-full bg-primary" style={{ "width": "100%" }}></div>
@@ -444,7 +442,7 @@ export default function Home({ blogs, profile }) {
               </h3>
               <p className="text-grey pt-4 text-sm group-hover:text-white md:text-base">
                 Hands-on experience in developing and testing software applications using -
-                Python, Java, C++/ C, ensuring functionality and reliability.
+                Python, C++/ C, C#, Java ensuring functionality and reliability.
               </p>
             </div>
           </div>
@@ -481,8 +479,8 @@ export default function Home({ blogs, profile }) {
                 Web Development, Frameworks and Designing
               </h3>
               <p className="text-grey pt-4 text-sm group-hover:text-white md:text-base">
-                Strong understanding of web development concepts and frameworks, including React, Next.js, Node.js,
-                Javascript, Bootstrap, Tailwind CSS, DOM - Document Object Model, HTML & CSS. Skilled in creating
+                Strong understanding of web development concepts and frameworks, including Express, React, Next.js, Node.js,
+                Javascript, ASP.Net, Web API, Restful, Bootstrap, Tailwind CSS, HTML & CSS. Skilled in creating
                 visually appealing and user-friendly web interfaces with a focus on usability and accessibility.
               </p>
             </div>
@@ -575,6 +573,8 @@ export default function Home({ blogs, profile }) {
               </h3>
               <p className="text-grey pt-4 text-sm group-hover:text-white md:text-base">
                 Familiarity with project management principles, ensuring projects are completed on time and within scope.
+                Tech Assests: Jira, Agile, SDLC
+                Microsoft Project, Project 365 - softwares used to keep track of project phases.
               </p>
             </div>
           </div>
@@ -593,7 +593,10 @@ export default function Home({ blogs, profile }) {
               </h3>
               <p className="text-grey pt-4 text-sm group-hover:text-white md:text-base">
                 Specialized in computer functions and networking concepts, I've leveraged hands-on, activity-based
-                learning, including a practical Internet of Things (IoT) project using Python. Proficient in deploying and configuring computer and networking devices, I ensure seamless functionality, robust connectivity, and possess strong troubleshooting capabilities.
+                learning, including a practical Internet of Things (IoT) project using Python and Server-Side Scripting. 
+                Proficient in deploying and configuring computer and networking devices, I ensure seamless functionality, 
+                robust connectivity, and possess strong troubleshooting capabilities. I have also gained profound knowledge and
+                became familiar with TCP/ IP suites and OSI Model.
               </p>
             </div>
           </div>
