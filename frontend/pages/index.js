@@ -837,16 +837,13 @@ export default function Home({ blogs, profile }) {
                         <li><strong>Resolved Networking and Technical Issues: </strong>
                           Successfully tackled and resolved networking and IT challenges, contributing to significant improvements in the start-up's existing system.
                         </li>
-                        <li>Implemented a two-way Data Integration between VEND POS and Shopify, reducing manual workload by
-                        40% and ensuring real time inventory updates.</li>
-                        <li>Organized 2000+ products by types and tags, enhancing decision-making. 
-                        Maintained accurate inventory across platforms, achieving a found rate of 95-100%.</li>
                         <li><strong>Efficient IT Issue Resolution: </strong>
                           Established user-friendly procedures and meticulously documented all tech-related issues with plausible solutions for the team, ensuring effective resolution of complex IT issues.
                         </li>
 
                         <li><strong>Inventory Management Excellence: </strong>
-                          Single-handedly reduced the error margins of product inventory numbers on a weekly basis, showcasing attention to detail and precision.
+                        Organized 2000+ products by types and tags, enhancing decision-making. 
+                        Maintained accurate inventory across platforms, achieving a found rate of 95-100%.
                         </li>
 
                         <li><strong>Newsletter Campaign and Conversion Increase: </strong>
@@ -856,7 +853,8 @@ export default function Home({ blogs, profile }) {
                         <li><strong>Website Management and Integration: </strong>
                           Managed, maintained, and improved the store website.
                           Synchronized the store website with ClickShip and Trexity delivery platforms, enhancing the store's ability to manage both local and nationwide deliveries efficiently.
-                        </li>
+                          Implemented a two-way Data Integration between VEND POS and Shopify, reducing manual workload by
+                        40% and ensuring real time inventory updates.</li>
 
                         <li><strong>Lead in Web Development: </strong>
                           Managed, maintained, and enhanced the store website, showcasing proficiency in web development and programming.
@@ -864,7 +862,8 @@ export default function Home({ blogs, profile }) {
                           Additionally, adept documentation report skills and effective consumer communication further contribute to a versatile skill set.
                         </li>
 
-                        <li>Cultivated strong customer relations, resulting in a consistent 20% increase in returning customers.
+                        <li><strong>Communication & Work Ethic:</strong>
+                            Cultivated strong customer relations, resulting in a consistent 20% increase in returning customers.
                         </li>
                       </ul></span>
                     </div>
