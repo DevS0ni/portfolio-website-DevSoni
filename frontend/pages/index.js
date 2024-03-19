@@ -720,7 +720,7 @@ export default function Home({ blogs, profile }) {
                 <div className="mt-1 flex">
                   <i className="bx bxs-right-arrow hidden text-primary md:block"></i>
                   <div className="md:-mt-1 md:pl-8">
-                    <span className="block font-body font-bold text-grey-40">July 2021 - Dec 2021</span>
+                    <span className="block font-body font-bold text-grey-40">Sept 2021 - Sept 2022</span>
                     <span className="block pt-2 font-header text-xl font-bold text-primary">Advance Application Developer</span>
                     <div className="pt-2">
                       <span className="block font-body text-black"><p>I have successfully completed an extensive range of modules at ITC Mogri, Gujarat, India. Demonstrating exceptional proficiency in various programming languages and web development frameworks:</p>
