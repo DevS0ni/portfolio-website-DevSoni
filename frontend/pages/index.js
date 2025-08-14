@@ -830,7 +830,7 @@ export default function Home({ blogs, profile }) {
                     <div className="pt-2">
                       <span className="block font-body text-black"><ul>
                         <li><strong>E-commerce Website Development: </strong>
-                          Developed LaSpesa's e-commerce site in collaboration with the GrocerBox team, implementing JS functions for product customization, checkout optimization,
+                          Developed LaSpesa's e-commerce site in collaboration with the GrocerBox team, implementing functionalities for product customization, checkout optimization,
                             and customer profile management.
                         </li>
                         <li><strong>Performance & Scalability Optimization: </strong>
