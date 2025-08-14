@@ -826,39 +826,35 @@ export default function Home({ blogs, profile }) {
                   <i className="bx bxs-right-arrow hidden text-primary md:block"></i>
                   <div className="md:-mt-1 md:pl-8">
                     <span className="block font-body font-bold text-grey-40">Jan 2022 - current</span>
-                    <span className="block pt-2 font-header text-xl font-bold text-primary">IT Specialist</span>
+                    <span className="block pt-2 font-header text-xl font-bold text-primary">IT Specialist - Full-Stack Web Development</span>
                     <div className="pt-2">
                       <span className="block font-body text-black"><ul>
-                        <li><strong>Resolved Networking and Technical Issues: </strong>
-                          Successfully tackled and resolved networking and IT challenges, contributing to significant improvements in the start-up's existing system.
+                        <li><strong>E-commerce Website Development: </strong>
+                          Developed LaSpesa's e-commerce site in collaboration with the GrocerBox team, implementing JS functions for product customization, checkout optimization,
+                            and customer profile management.
                         </li>
-                        <li><strong>Efficient IT Issue Resolution: </strong>
-                          Established user-friendly procedures and meticulously documented all tech-related issues with plausible solutions for the team, ensuring effective resolution of complex IT issues.
-                        </li>
-
-                        <li><strong>Inventory Management Excellence: </strong>
-                        Organized 2000+ products by types and tags, enhancing decision-making. 
-                        Maintained accurate inventory across platforms, achieving a found rate of 95-100%.
+                        <li><strong>Performance & Scalability Optimization: </strong>
+                         Enhanced website performance and scalability by implementing multithreaded architecture, reducing response times, and increasing user satisfaction.
                         </li>
 
-                        <li><strong>Newsletter Campaign and Conversion Increase: </strong>
-                          Managed promotions, SEO, weekly newsletters, contributing to a 10% boost in the store's conversion rate.
+                        <li><strong>API Integration for Delivery Platforms: </strong>
+                        Integrated the website with Trexity and Clickship platforms via APIs, streamlining local and nationwide delivery operations.
                         </li>
 
-                        <li><strong>Website Management and Integration: </strong>
-                          Managed, maintained, and improved the store website.
-                          Synchronized the store website with ClickShip and Trexity delivery platforms, enhancing the store's ability to manage both local and nationwide deliveries efficiently.
-                          Implemented a two-way Data Integration between VEND POS and Shopify, reducing manual workload by
-                        40% and ensuring real time inventory updates.</li>
-
-                        <li><strong>Lead in Web Development: </strong>
-                          Managed, maintained, and enhanced the store website, showcasing proficiency in web development and programming.
-                          Highlights commitment to seamless user experiences and ability to integrate and optimize technology for enhanced efficiency.
-                          Additionally, adept documentation report skills and effective consumer communication further contribute to a versatile skill set.
+                        <li><strong>Database Design & Optimization: </strong>
+                          Designed and optimized SQL Server databases, reducing manual workload by 40% and enabling real-time inventory updates.
                         </li>
 
-                        <li><strong>Communication & Work Ethic:</strong>
-                            Cultivated strong customer relations, resulting in a consistent 20% increase in returning customers.
+                        <li><strong>Technical Issue Resolution & Cybersecurity practices: </strong>
+                          Troubleshot network and technical issues, ensuring system reliability and compliance with cybersecurity.
+                        </li>
+
+                        <li><strong>SEO & Marketing Campaign Management: </strong>
+                          Managed SEO, promotions, and newsletters, boosting sales conversion rates by 10%.
+                        </li>
+
+                        <li><strong>Ongoing Website Maintenance & Updates: </strong>
+                            Maintain the website regularly, implementing minor updates and improvements to ensure smooth day-to-day operations.
                         </li>
                       </ul></span>
                     </div>
