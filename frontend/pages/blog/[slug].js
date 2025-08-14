@@ -138,7 +138,7 @@ const Post = ({ blog, profile }) => {
         <div class="bg-primary">
             <div class="container flex flex-col justify-between py-6 sm:flex-row">
                 <p class="text-center font-body text-white md:text-left">
-                    © Copyright 2024. All right reserved, Dev Soni.
+                    © Copyright 2025. All right reserved, Dev Soni.
                 </p>
                 <div class="flex items-center justify-center pt-5 sm:justify-start sm:pt-0">
                     <a href={profile.github}>
