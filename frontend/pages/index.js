@@ -716,7 +716,7 @@ export default function Home({ blogs, profile }) {
                   <i className="bx bxs-right-arrow hidden text-primary md:block"></i>
                   <div className="md:-mt-1 md:pl-8">
                     <span className="block font-body font-bold text-grey-40">Sept 2021 - Sept 2022</span>
-                    <span className="block pt-2 font-header text-xl font-bold text-primary">Advance Application Developer</span>
+                    <span className="block pt-2 font-header text-xl font-bold text-primary">Advance Application Developer (Full-time)</span>
                     <div className="pt-2">
                       <span className="block font-body text-black"><p>I have successfully completed an extensive range of modules at ITC Mogri, Gujarat, India. Demonstrating exceptional proficiency in various programming languages and web development frameworks:</p>
 
@@ -772,7 +772,7 @@ export default function Home({ blogs, profile }) {
                   <i className="bx bxs-right-arrow hidden text-primary md:block"></i>
                   <div className="md:-mt-1 md:pl-8">
                     <span className="block font-body font-bold text-grey-40">Jan 2022 - Jan 2024</span>
-                    <span className="block pt-2 font-header text-xl font-bold text-primary">Computer Programming</span>
+                    <span className="block pt-2 font-header text-xl font-bold text-primary">Computer Programming (Associate's Degree CS - Full-time)</span>
                     <div className="pt-2">
                       <span className="block font-body text-black"><ul>
                         <li><strong>Effective Leadership</strong> in Group Projects, ensuring timely delivery of milestones.</li>
@@ -826,7 +826,7 @@ export default function Home({ blogs, profile }) {
                   <i className="bx bxs-right-arrow hidden text-primary md:block"></i>
                   <div className="md:-mt-1 md:pl-8">
                     <span className="block font-body font-bold text-grey-40">Jan 2022 - current</span>
-                    <span className="block pt-2 font-header text-xl font-bold text-primary">IT Specialist - Full-Stack Web Development</span>
+                    <span className="block pt-2 font-header text-xl font-bold text-primary">IT Specialist - Full-Stack Web Development (Full-time)</span>
                     <div className="pt-2">
                       <span className="block font-body text-black"><ul>
                         <li><strong>E-commerce Website Development: </strong>
